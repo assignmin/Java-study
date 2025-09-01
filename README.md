@@ -74,3 +74,19 @@ SelfStudyJava/
   자바 문법 복습
 - Plan to study the Spring Framework  
   Spring Framework 학습 예정
+
+---
+
+## ✍️ Notes on Source Code / 소스코드 주석 안내
+
+- Some files already contain comments originally provided in the book.  
+  일부 파일에는 교재에서 제공된 주석이 포함되어 있습니다.
+
+- While studying, I added my own comments using the same `//` style.  
+  학습 과정에서 제가 이해를 돕기 위해 추가한 주석도 동일하게 `//` 형식으로 작성했습니다.
+
+- Therefore, each source file includes a mix of original comments and my study notes.  
+  따라서 각 소스 파일에는 원본 주석과 제가 학습하며 작성한 주석이 함께 포함되어 있습니다.
+
+- The original copyright of the book’s source code belongs to Hanbit Media.  
+  교재 예제 소스코드의 저작권은 한빛미디어에 있습니다.
