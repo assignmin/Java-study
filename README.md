@@ -35,18 +35,18 @@ Each chapter offers hands-on practice with Java 21 syntax and helps build an und
 ```text
 SelfStudyJava/
 ├── chap01/ # Starting Java		 				/ 자바 시작하기
-├── chap02/ # Variables and Types	 				/ 변수와 타입
+├── chap02/ # Variables and Types	 			/ 변수와 타입
 ├── chap03/ # Operators 						/ 연산자
-├── chap04/ # Conditionals and Loops					/ 조건문과 반복문
-├── chap05/ # Reference Types 						/ 참조 타입
+├── chap04/ # Conditionals and Loops			/ 조건문과 반복문
+├── chap05/ # Reference Types 					/ 참조 타입
 ├── chap06/ # Classes 							/ 클래스
 ├── chap07/ # Inheritance 						/ 상속
 ├── chap08/ # Interfaces 						/ 인터페이스
-├── chap09/ # Nested Classes & Interfaces 				/ 중첩 클래스와 중첩 인터페이스
-├── chap10/ # Exception Handling 					/ 예외 처리
-├── chap11/ # API 							/ 기본 API 클래스
+├── chap09/ # Nested Classes & Interfaces 		/ 중첩 클래스와 중첩 인터페이스
+├── chap10/ # Exception Handling 				/ 예외 처리
+├── chap11/ # API 								/ 기본 API 클래스
 ├── chap12/ # Threads 							/ 스레드
-├── chap13/ # Collections Framework					/ 컬렉션 프레임워크
+├── chap13/ # Collections Framework				/ 컬렉션 프레임워크
 ├── chap14/ # I/O Streams 						/ 입출력 스트림
 ```
 
